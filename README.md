@@ -2,7 +2,7 @@
 ### By ***[Turkey Ankara Ayrancı Anadolu High School](http://ayrancianadolu.meb.k12.tr)*** Students
 
 #### Turkey Ankara Ayrancı Anadolu High School's Sign Language Digits Dataset
-This dataset prepared by our school students.
+This dataset is prepared by our school students.
 
 ### Dataset Preview:
 
@@ -13,13 +13,13 @@ This dataset prepared by our school students.
 |5|6|7|8|9|
 
 ### Details of datasets:
-- Image size: 100x100
+- Image size: 100 x 100 pixels
 - Color space: RGB
 - Number of classes: 10 (Digits: 0-9)
 - Number of participant students: 218
 - Number of samples per student: 10
 
-## Project executives:
+## Project Executives:
 ## Zeynep Dikle & Arda Mavi
 Turkey Ankara Ayrancı Anadolu High School Students
 
