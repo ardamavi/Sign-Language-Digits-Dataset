@@ -19,6 +19,10 @@ This dataset prepared by our school students.
 - Number of participant students: 218
 - Number of samples per student: 10
 
-### Project executives:
-#### Zeynep Dikle & Arda Mavi
+## Project executives:
+## Zeynep Dikle & Arda Mavi
 Turkey Ankara Ayrancı Anadolu High School Students
+
+# For Development:
+### Processing Dataset:
+For processing the dataset, look up Arda Mavi's GitHub Gist: [gist.github.com/ardamavi/get_dataset.py](https://gist.github.com/ardamavi/a7d06ff8a315308771c70006cf494d69)
