@@ -25,4 +25,4 @@ Turkey Ankara Ayrancı Anadolu High School Students
 
 # For Development:
 ### Processing Dataset:
-For processing the dataset, look up Arda Mavi's GitHub Gist: [gist.github.com/ardamavi/get_dataset.py](https://gist.github.com/ardamavi/a7d06ff8a315308771c70006cf494d69)
+For processing the dataset, look up the [get_dataset.py](/get_dataset.py)
