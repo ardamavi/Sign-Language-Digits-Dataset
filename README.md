@@ -26,3 +26,7 @@ Turkey Ankara Ayrancı Anadolu High School Students
 # For Development:
 ### Processing Dataset:
 For processing the dataset, look up Arda Mavi's GitHub Gist: [gist.github.com/ardamavi/get_dataset.py](https://gist.github.com/ardamavi/a7d06ff8a315308771c70006cf494d69)
+
+# Cite:
+If you would like to use the data in research projects, please cite the following:
+Mavi, A., (2020), “A New Dataset and Proposed Convolutional Neural Network Architecture for Classification of American Sign Language Digits”, arXiv:2011.08927 [cs.CV]
